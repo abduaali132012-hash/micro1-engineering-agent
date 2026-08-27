@@ -17,6 +17,8 @@ software engineering tasks and identify implementation requirements.
 
 ## Tech Stack
 
+pytest
+
 - Python
 - FastAPI
 - Pydantic
